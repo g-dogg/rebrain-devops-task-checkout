@@ -29,7 +29,7 @@ No information about deployment yet
 
 ## License
 
-This project has no licensed
+This project has no license
 
 ## Acknowledgments
 
